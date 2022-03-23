@@ -1,0 +1,125 @@
+{
+    "system_colors": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "color": "#C1582A"
+        },
+        {
+            "_id": "primary_hover",
+            "title": "Primary Hover",
+            "color": "#AD4618"
+        },
+        {
+            "_id": "secondary",
+            "title": "Secondary",
+            "color": "#F6F6F6"
+        },
+        {
+            "_id": "secondary_hover",
+            "title": "Secondary Hover",
+            "color": "#DDDDDD"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "color": "#787878"
+        },
+        {
+            "_id": "accent",
+            "title": "Heading",
+            "color": "#000000"
+        },
+        {
+            "_id": "lighter",
+            "title": "Lighter",
+            "color": "#999999"
+        },
+        {
+            "_id": "border",
+            "title": "Border",
+            "color": "#EBEBEB"
+        }
+    ],
+    "custom_colors": [],
+    "system_typography": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "secondary",
+            "title": "Secondary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "accent",
+            "title": "Accent",
+            "typography_typography": "custom"
+        }
+    ],
+    "custom_typography": [],
+    "default_generic_fonts": "Sans-serif",
+    "site_name": "woncep",
+    "site_description": "Just another WordPress site",
+    "page_title_selector": "h1.entry-title",
+    "activeItemIndex": 1,
+    "container_width": {
+        "unit": "px",
+        "size": 1290,
+        "sizes": []
+    },
+    "space_between_widgets": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+    },
+    "button_background_color": "#000000",
+    "__globals__": {
+        "button_hover_background_color": "globals\/colors?id=primary",
+        "button_background_color": ""
+    },
+    "button_hover_background_color": "#C1582A",
+    "button_typography_typography": "custom",
+    "button_typography_font_family": "Futura PT Demi",
+    "button_typography_font_size": {
+        "unit": "px",
+        "size": 14,
+        "sizes": []
+    },
+    "button_typography_letter_spacing": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+    },
+    "button_border_radius": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+    },
+    "button_padding": {
+        "unit": "px",
+        "top": "17",
+        "right": "63",
+        "bottom": "17",
+        "left": "63",
+        "isLinked": false
+    },
+    "button_padding_mobile": {
+        "unit": "px",
+        "top": "17",
+        "right": "50",
+        "bottom": "17",
+        "left": "50",
+        "isLinked": false
+    }
+}
